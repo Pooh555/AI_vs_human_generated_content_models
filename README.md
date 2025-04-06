@@ -21,7 +21,6 @@
     <a href="https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset" target="_blank"> AI vs Human-Generated Images Dataset
     </a>
   </ol>
-  <br></br>
   Audio Datasets:
   <ol>
     <a href="https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset" target="_blank"> AI vs Human-Generated Voice Dataset
