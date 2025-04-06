@@ -13,49 +13,44 @@
 </p>
 
 ### Datasets
-<p align="left"> The complete training and testing datasets can be downloaded in
+<p align="left"> The complete training and testing datasets can be downloaded via the links below.
   <a href="https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset" target="_blank"> AI vs Human-Generated Images Dataset
   </a>
-  .
+  <br></br>
   <a href="https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset" target="_blank"> AI vs Human-Generated Voice Dataset
   </a>
-  .
 </p>
 
-### Project Structure
+### Project Structure (Depth = 3)
 ```
 ├── res
 │   ├── assets
 │   │   └── images
 │   └── test_images
 ├── src
-│   ├── dataset
-│   │   ├── test_data_v2
-│   │   └── train_data
-│   └── main
-├── submission
+│   ├── audio
+│   │   ├── dataset
+│   │   └── graphs
+│   ├── image
+│   ├── text
+│   └── video
 └── trained_models
-    ├── evaluation_results
-    │   ├── custom
-    │   ├── efficientnet
-    │   └── resnet
-    └── models
-        ├── custom
-        ├── efficientnet
-        └── resnet
 ```
 ### Essential packages
 Import necessary libraries and modules including:
 | Libraries | Version | Channel |
 | ----------- | ----------- | ----------- |
+| Keras | 2.11.0 | conda-forge |
+| Librosa | 0.11.0 | PyPi |
 | Matplotlib | 3.9.1 | conda-forge |
 | NumPy | 2.2.2 | conda-forge |
-| Matplotlib | 3.9.1 | conda-forge |
 | Pandas | 2.2.3 | conda-forge |
 | Pillow | 9.4.0 | conda-forge |
 | Pytorch | 2.5.1 | conda-forge |
 | Seaborn | 0.13.2 | conda-forge |
 | Sklearn | 1.6.1 | conda-forge |
+| Tensorflow | 2.18.0 | conda-forge |
+
 ### Resources
 #### Pooh555's laptop
 | Devices | Specification | Remark |
