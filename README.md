@@ -7,15 +7,17 @@
 </p>
 
 ### About this project
-<p>This project is a competing in
-  <a href="https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset" target="_blank"> AI vs Human-Generated Image
+<p>This project is competing in
+  <a href="https://www.infomatrix.ro/" target="_blank"> Infomatrix 2025
   </a>
-   competition.
 </p>
 
 ### Datasets
 <p align="left"> The complete training and testing datasets can be downloaded in
-  <a href="https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset" target="_blank"> AI vs Human-Generated Images Datasets
+  <a href="https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset" target="_blank"> AI vs Human-Generated Images Dataset
+  </a>
+  .
+  <a href="https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset" target="_blank"> AI vs Human-Generated Voice Dataset
   </a>
   .
 </p>
@@ -97,9 +99,6 @@ After completing these procedures you may open vscode ssh session or run jupyter
 <ol>
   <li>Pooh555
     <a href="https://www.kaggle.com/patumwan" target="_blank"> Kaggle Profile.</a>
-  </li>
-  <li>Mellow
-    <a href="https://www.kaggle.com/pannatado" target="_blank"> Kaggle Profile.</a>
   </li>
 </ol>
 <p align="center">
