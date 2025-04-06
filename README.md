@@ -100,7 +100,7 @@ After completing these procedures you may open vscode ssh session or run jupyter
 ### Team Members
 <ol>
   <li>Pooh555
-    <a href="https://www.kaggle.com/patumwan" target="_blank"> Kaggle Profile.</a>
+    <a href="https://github.com/Pooh555" target="_blank"> Kaggle Profile.</a>
   </li>
 </ol>
 <p align="center">
