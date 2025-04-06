@@ -10,15 +10,23 @@
 <p>This project is competing in
   <a href="https://www.infomatrix.ro/" target="_blank"> Infomatrix 2025
   </a>
+  .
 </p>
 
 ### Datasets
 <p align="left"> The complete training and testing datasets can be downloaded via the links below.
-  <a href="https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset" target="_blank"> AI vs Human-Generated Images Dataset
-  </a>
   <br></br>
-  <a href="https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset" target="_blank"> AI vs Human-Generated Voice Dataset
-  </a>
+  Image Datasets:
+  <ol>
+    <a href="https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset" target="_blank"> AI vs Human-Generated Images Dataset
+    </a>
+  </ol>
+  <br></br>
+  Audio Datasets:
+  <ol>
+    <a href="https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset" target="_blank"> AI vs Human-Generated Voice Dataset
+    </a>
+  </ol>
 </p>
 
 ### Project Structure (Depth = 3)
