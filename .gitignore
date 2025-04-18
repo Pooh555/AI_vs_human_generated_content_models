@@ -3,3 +3,5 @@ src/audio/dataset
 src/image/dataset
 src/image/cropped_faces
 src/image/cropped_faces_dataset
+src/image/cropped_test_faces
+src/image/temp.ipynb
