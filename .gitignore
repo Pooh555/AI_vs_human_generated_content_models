@@ -1,2 +1,4 @@
 /trained_models
 src/audio/dataset
+src/image/dataset
+src/image/cropped_faces
