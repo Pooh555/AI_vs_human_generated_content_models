@@ -4,4 +4,5 @@ src/image/dataset
 src/image/cropped_faces
 src/image/cropped_faces_dataset
 src/image/cropped_test_faces
+src/image/faces_dataset
 temp.ipynb
