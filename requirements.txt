@@ -11,7 +11,6 @@ opencv==4.7.0
 pandas==2.2.3
 pillow==11.1.0
 pulseaudio==16.1
-python==3.10.9
 pytorch==2.5.1
 scikit-learn==1.6.1
 sqlite==3.45.3

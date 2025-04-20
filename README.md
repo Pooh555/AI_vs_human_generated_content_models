@@ -53,6 +53,7 @@
 ### Essential packages
 Install essential packages
 ```
+conda install python=3.10.9
 pip install -r requirements.txt
 ```
 
