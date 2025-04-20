@@ -51,6 +51,11 @@
 └── trained_models
 ```
 ### Essential packages
+Install essential packages
+```
+pip install -r requirements.txt
+```
+
 Import necessary libraries and modules including:
 | Libraries | Version | Channel |
 | ----------- | ----------- | ----------- |
