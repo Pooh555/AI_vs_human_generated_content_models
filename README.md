@@ -20,6 +20,7 @@
   <ol>
     <a href="https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset" target="_blank"> AI vs Human-Generated Images Dataset
     </a>
+    <br></br>
     <a href="https://www.kaggle.com/datasets/philosopher0808/real-vs-ai-generated-faces-dataset" target="_blank"> Real vs AI Generated Faces Dataset
     </a>
   </ol>
