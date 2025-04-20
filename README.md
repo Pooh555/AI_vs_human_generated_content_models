@@ -38,9 +38,13 @@
 │   ├── audio
 │   │   ├── dataset
 │   │   └── graphs
-│   ├── image
-│   ├── text
-│   └── video
+│   └── image
+│       ├── cropped_faces
+│       ├── cropped_faces_dataset
+│       ├── cropped_test_faces
+│       ├── dataset
+│       ├── faces_dataset
+│       └── graphs
 └── trained_models
 ```
 ### Essential packages
