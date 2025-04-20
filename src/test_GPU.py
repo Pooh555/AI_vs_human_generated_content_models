@@ -1,7 +1,5 @@
-# %%
 import torch
 
-# %%
 def test_CUDA():
     print("Torch CUDA version:",torch.version.cuda)
     print("CUDA GPU avalibility:", torch.cuda.is_available())
@@ -15,16 +13,12 @@ def test_CUDA():
     else:
         print("No CUDA GPU detected.")
 
-# %%
 test_CUDA()
 
-# %%
 import tensorflow as tf
 
-# %%
 gpu_available = tf.test.is_gpu_available()
 
-# %%
 print(gpu_available)
 
 
