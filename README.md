@@ -29,6 +29,11 @@
     <a href="https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset" target="_blank"> AI vs Human-Generated Voice Dataset
     </a>
   </ol>
+  Text Datasets:
+  <ol>
+    <a href="https://www.kaggle.com/datasets/sunilthite/llm-detect-ai-generated-text-dataset" target="_blank"> Detect AI Generated Text Dataset
+    </a>
+  </ol>
 </p>
 
 ### Project Structure (Depth = 3)
