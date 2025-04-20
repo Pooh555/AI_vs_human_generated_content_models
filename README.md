@@ -57,20 +57,6 @@ conda install python=3.10.9
 pip install -r requirements.txt
 ```
 
-Import necessary libraries and modules including:
-| Libraries | Version | Channel |
-| ----------- | ----------- | ----------- |
-| Keras | 2.11.0 | conda-forge |
-| Librosa | 0.11.0 | PyPi |
-| Matplotlib | 3.9.1 | conda-forge |
-| NumPy | 2.2.2 | conda-forge |
-| Pandas | 2.2.3 | conda-forge |
-| Pillow | 9.4.0 | conda-forge |
-| Pytorch | 2.5.1 | conda-forge |
-| Seaborn | 0.13.2 | conda-forge |
-| Sklearn | 1.6.1 | conda-forge |
-| Tensorflow | 2.18.0 | conda-forge |
-
 ### Resources
 #### Pooh555's laptop
 | Devices | Specification | Remark |
