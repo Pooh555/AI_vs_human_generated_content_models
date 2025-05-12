@@ -105,6 +105,9 @@ After completing these procedures you may open vscode ssh session or run jupyter
   <li>Pooh555
     <a href="https://github.com/Pooh555" target="_blank"> Github Profile.</a>
   </li>
+  <li>Feifei
+    <a href="https://github.com/Feifeinatood" target="_blank"> Github Profile.</a>
+  </li>
 </ol>
 <p align="center">
   We are from Kamoetvidya Science Academy (
