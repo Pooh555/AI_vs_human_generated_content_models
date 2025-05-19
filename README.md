@@ -33,6 +33,11 @@
     <a href="https://www.kaggle.com/datasets/sunilthite/llm-detect-ai-generated-text-dataset" target="_blank"> Detect AI Generated Text Dataset
     </a>
   </ol>
+  Video Datasets:
+  <ol>
+    <a href="https://www.kaggle.com/datasets/itamargr/dfdc-faces-of-the-train-sample?resource=download\" target="_blank"> Detect AI Generated Text Dataset
+    </a>
+  </ol>
 </p>
 
 ### Project Structure (Depth = 3)
