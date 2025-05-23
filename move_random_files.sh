@@ -1,4 +1,5 @@
 #!/bin/bash
+
 if [ "$#" -ne 3 ]; then
   echo "Usage: $0 \"source_directory\" \"destination_directory\" percentage"
   echo "Example: $0 \"/path/to/your/directory1\" \"/path/to/your/directory2\" 5"
